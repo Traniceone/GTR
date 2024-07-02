@@ -1,0 +1,38 @@
+.tra {
+  font-size: 40px;
+  color: red;
+}
+dev .text {
+  color: blue;
+}
+.container {
+  color: blue;
+  font-size: 35px;
+}
+.one {
+  color: gray;
+}
+#hello {
+  color: blueviolet;
+}
+.flower {
+  font-size: 30px;
+  background-image: url("flower.jpg");
+}
+.m2show {
+  margin: 10px;
+
+  border: 2px solid black;
+  height: 700px;
+  width: 650px;
+  p {
+    color: red;
+  }
+}
+img {
+  width: 500px;
+  height: 400px;
+}
+h1 {
+  font: bold;
+}
